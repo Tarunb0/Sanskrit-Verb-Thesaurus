@@ -1,0 +1,8 @@
+.list{
+    padding-left:20px
+}
+
+.emptyResult{
+    color: red;
+    text-align: center;
+}

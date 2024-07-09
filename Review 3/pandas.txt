@@ -1,0 +1,6 @@
+Nodes Loading Time: 0.2663 seconds
+Relationships Loading Time: 0.2811 seconds
+Query Execution Time: 0.0538 seconds
+Total Time: 0.6012 seconds
+Throughput: 13.3060 nodes per second
+Latency: 0.0752 seconds per node

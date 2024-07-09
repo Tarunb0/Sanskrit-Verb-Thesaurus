@@ -1,0 +1,52 @@
+Time to import data: 0.10286664962768555
+Total number of nodes: 10000
+Time taken to get node count: 0.0002570152282714844 seconds
+Throughput: 3890.82 ops/sec
+Latency: 0.26 ms
+
+Total number of relationships: 10781
+Time taken to get relationship count: 0.0009889602661132812 seconds
+Throughput: 1011.16 ops/sec
+Latency: 0.99 ms
+
+Total time taken to check database metrics: 0.0019021034240722656 seconds
+Connected nodes to 'oewn-torrent-n' up to depth 1:
+Time taken to get 10 dfs 0.00070953369140625 seconds
+Throughput: 1409.38 ops/sec
+Latency: 0.71 ms
+
+Connected nodes to 'oewn-torrent-n' up to depth 2:
+Time taken to get 10 dfs 0.02312445640563965 seconds
+Throughput: 43.24 ops/sec
+Latency: 23.12 ms
+
+Connected nodes to 'oewn-torrent-n' up to depth 3:
+Time taken to get 10 dfs 0.08709979057312012 seconds
+Throughput: 11.48 ops/sec
+Latency: 87.10 ms
+
+Connected nodes to 'oewn-torrent-n' up to depth 4:
+Time taken to get 10 dfs 0.253145694732666 seconds
+Throughput: 3.95 ops/sec
+Latency: 253.15 ms
+
+Connected nodes to 'oewn-torrent-n' up to depth 5:
+Time taken to get 10 dfs 1.2661588191986084 seconds
+Throughput: 0.79 ops/sec
+Latency: 1266.16 ms
+
+Connected nodes to 'oewn-torrent-n' up to depth 6:
+Time taken to get 10 dfs 6.706094264984131 seconds
+Throughput: 0.15 ops/sec
+Latency: 6706.09 ms
+
+Connected nodes to 'oewn-torrent-n' up to depth 7:
+Time taken to get 10 dfs 43.63741588592529 seconds
+Throughput: 0.02 ops/sec
+Latency: 43637.42 ms
+
+Connected nodes to 'oewn-torrent-n' up to depth 8:
+Time taken to get 10 dfs 301.1219091415405 seconds
+Throughput: 0.00 ops/sec
+Latency: 301121.91 ms
+

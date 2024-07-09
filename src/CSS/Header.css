@@ -1,0 +1,42 @@
+.header-row {
+    display: flex;
+    flex-direction: row; /* Reset the flex direction for .header-row */
+    justify-content: flex-start;
+    align-items: center;
+    padding-bottom: 25px;
+  }
+
+#sans1 {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+}
+
+.header-image {
+  padding-top: 10px;
+  padding-right: 20px;
+}
+
+h1 {
+    --s: 0.1em;   /* the thickness of the line */
+    --c: #FF9843; /* the color */
+    
+    color: #0000;
+    padding-bottom: var(--s);
+    background: 
+      linear-gradient(90deg,var(--c) 50%,#000 0) calc(100% - var(--_p,0%))/200% 100%,
+      linear-gradient(var(--c) 0 0) 0% 100%/var(--_p,0%) var(--s) no-repeat;
+    -webkit-background-clip: text,padding-box;
+            background-clip: text,padding-box;
+    transition: 0.9s;
+  }
+  h1:hover {--_p: 100%}
+  
+  h1 {
+    font-family: 'Exo 2', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 5rem;
+    cursor: pointer;
+  }
+
+

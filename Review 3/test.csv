@@ -1,0 +1,11 @@
+0,1
+Time to import data,0.10286664962768555
+Total number of nodes,10000.0
+Time taken to get node count,0.0002570152282714844
+Throughput,3890.82
+Latency,0.26
+Total number of relationships,10781.0
+Time taken to get relationship count,0.0009889602661132812
+Throughput,1011.16
+Latency,0.99
+Total time taken to check database metrics,0.0019021034240722656
